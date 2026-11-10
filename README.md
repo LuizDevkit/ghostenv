@@ -78,4 +78,4 @@ E comenta na Issue #1: **"Achei X fantasmas no meu repo"**
 
 ---
 
-Feito por [LuizDevkit](https://github.com/LuizDevkit) • [LinkedIn](https://www.linkedin.com/in/antonio-brito-839b25448/)
+Feito por [LuizDevkit](https://github.com/LuizDevkit) • [LinkedIn](https://www.linkedin.com/in/antonio-brito-dev)
