@@ -1,3 +1,4 @@
+![GhostEnv - Caçador de variáveis fantasmas](image_20261110_155314.jpg)
 # 👻 GhostEnv — Caçador de Variáveis Fantasmas
 
 > Rode no seu repo e me fala quantos fantasmas você achou.
