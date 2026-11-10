@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ghostenv"
+version = "0.1.0"
+description = "Cacador de variaveis fantasmas - descobre o que seu codigo realmente usa vs o que esta no seu .env"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "LuizDevkit"}]
+keywords = ["dotenv", "env", "cli", "developer-tools", "ast"]
+dependencies = ["click>=8.1", "rich>=13.0"]
+
+[project.scripts]
+ghostenv = "ghostenv.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/LuizDevkit/ghostenv"
+Repository = "https://github.com/LuizDevkit/ghostenv"
+
+[tool.setuptools.packages.find]
+include = ["ghostenv*"]
